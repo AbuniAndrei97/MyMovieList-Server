@@ -1,0 +1,1 @@
+GET https://my-movie-list.herokuapp.com/posts
